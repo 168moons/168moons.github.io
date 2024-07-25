@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://168moons.github.io/tw/open-interest/</loc>
-    <lastmod>2024-07-06</lastmod>
+    <loc>http://168moons.github.io/learn/PricePremium/</loc>
+    <lastmod>2024-07-25</lastmod>
+  </url>
+  <url>
+    <loc>http://168moons.github.io/learn/CVD/</loc>
+    <lastmod>2024-07-25</lastmod>
+  </url>
+  <url>
+    <loc>http://168moons.github.io/learn/liqudation/</loc>
+    <lastmod>2024-07-25</lastmod>
+  </url>
+  <url>
+    <loc>http://168moons.github.io/learn/funding-rate/</loc>
+    <lastmod>2024-07-25</lastmod>
+  </url>
+  <url>
+    <loc>http://168moons.github.io/learn/OderBook-Depth/</loc>
+    <lastmod>2024-07-25</lastmod>
+  </url>
+  <url>
+    <loc>http://168moons.github.io/learn/LSRatio/</loc>
+    <lastmod>2024-07-24</lastmod>
+  </url>
+  <url>
+    <loc>http://168moons.github.io/learn/open-interest/</loc>
+    <lastmod>2024-07-24</lastmod>
+  </url>
+  <url>
+    <loc>http://168moons.github.io/fomo/test2/</loc>
+    <lastmod>2024-07-23</lastmod>
   </url>
 </urlset> 

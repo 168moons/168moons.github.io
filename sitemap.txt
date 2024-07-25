@@ -11,10 +11,10 @@ http://168moons.github.io/learn/open-interest/
 http://168moons.github.io/fomo/test2/
 http://168moons.github.io/link/index.html
 http://168moons.github.io/
-http://168moons.github.io/tags/fomo/
-http://168moons.github.io/tags/test/
 http://168moons.github.io/tags/%E5%90%88%E7%B4%84/
 http://168moons.github.io/tags/%E6%95%99%E5%AD%B8/
 http://168moons.github.io/tags/%E6%8C%87%E6%A8%99/
-http://168moons.github.io/categories/fomo/
+http://168moons.github.io/tags/fomo/
+http://168moons.github.io/tags/test/
 http://168moons.github.io/categories/learn/
+http://168moons.github.io/categories/fomo/

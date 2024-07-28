@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://168moons.github.io/learn/OderBook-Depth/</loc>
+    <lastmod>2024-07-28</lastmod>
+  </url>
+  <url>
     <loc>http://168moons.github.io/learn/CVD/</loc>
     <lastmod>2024-07-28</lastmod>
   </url>
@@ -23,9 +27,5 @@
   <url>
     <loc>http://168moons.github.io/learn/PricePremium/</loc>
     <lastmod>2024-07-28</lastmod>
-  </url>
-  <url>
-    <loc>http://168moons.github.io/learn/OderBook-Depth/</loc>
-    <lastmod>2024-07-27</lastmod>
   </url>
 </urlset> 

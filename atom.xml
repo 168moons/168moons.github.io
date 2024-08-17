@@ -6,7 +6,7 @@
   <link href="http://168moons.github.io/atom.xml" rel="self"/>
   
   <link href="http://168moons.github.io/"/>
-  <updated>2024-08-11T07:13:32.123Z</updated>
+  <updated>2024-08-17T11:58:58.671Z</updated>
   <id>http://168moons.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何撐過盤整地獄期 2024/8/17 _盤勢解讀</title>
+    <link href="http://168moons.github.io/market/day_20240817/"/>
+    <id>http://168moons.github.io/market/day_20240817/</id>
+    <published>2024-08-17T08:14:11.000Z</published>
+    <updated>2024-08-17T11:58:58.671Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="盤整、盤整、盤整"><a href="#盤整、盤整、盤整" class="headerlink" title="盤整、盤整、盤整"></a>盤整、盤整、盤整</h2><p>從2024&#x2F;8&#x2F;9 反彈至高點62500後，市場進入了<strong>量縮的盤整</strong>階段 </p><p>從下面圖藍色上升切線可以看出來，只要一跌破後就下殺一小段出來</p><p>然後，市場再慢慢由外在因素，例如納指反彈等等去重建脆弱的信心</p><p>和外部相比，這是個跟風的小小的反彈</p><p><img src="https://pub-f966c20e60684e1daa12b822ef64acdd.r2.dev/2024-08-17_105808.jpg"></p><p>然言，這段盤整地獄期要走多久?</p><p>從紫色廂型區間來看，與過往的盤整至少也是一個月以上</p><p>一直盤整，直到出方向…</p><p>那麼我們要如何撐過所謂的盤整地獄?</p><h2 id="定義盤整區間-逆勢單"><a href="#定義盤整區間-逆勢單" class="headerlink" title="定義盤整區間 &#x2F; 逆勢單"></a>定義盤整區間 &#x2F; 逆勢單</h2><p>假設盤整區間為紫色區域 56000~ 62500 大區間</p><p>我們只需要在相對高點做空，相對低點做多即可</p><p>這邊建議用訂單深度圖大觀察大單位置 </p><p>那麼問題來了，如果漲破或跌破怎麼辦呢?</p><p>從下面範例可以看出大單由上往下移動</p><p><img src="https://pub-f966c20e60684e1daa12b822ef64acdd.r2.dev/2024-08-17_172609.jpg"></p><p>由於我們之前已經「假設」 這是<strong>大區間盤整</strong></p><p>這時的對應的資金加碼策略為<strong>逆勢。金字塔加碼法</strong></p><p>請參考說明 <a href="https://168moons.github.io/learn/Money-Control/">https://168moons.github.io/learn/Money-Control/</a></p><p>雖然跌破大單區，但經由這樣的加碼策略 </p><p>一個小反彈之後，更容易達到停利區~</p><p>後註：雖然這是大區間盤整，還是要設一個停損區，如果和預期假設不符時，該停損還是要停損!  不要一直想著馬丁的反轉</p><h2 id="網格策略"><a href="#網格策略" class="headerlink" title="網格策略"></a>網格策略</h2><p>盤整區相對無腦的策略就是網格策略，設好<strong>中性網格的上、下限</strong>之後</p><p>無腦一直刷! 刷! 刷!</p><h2 id="放空波動率策略"><a href="#放空波動率策略" class="headerlink" title="放空波動率策略"></a>放空波動率策略</h2><p>通常在大幅下殺後，DVOL波動率指數會往上升到相對高點，此時的買權很貴</p><p>DVOL 如果持續這樣的下降程度，這表示市場普遍認為這段時間不會有大波動</p><p>在盤整區，如果DVOL一直下降，我們可以在這段空窗期去<strong>空波動率去賺時間價值</strong>  </p><p>具體就是: SELL PUT(價格下限) +SELL CALL(價格上限)   </p><p>當然，請記得要重點時間前一刻移掉這種組合，例如 FED 發佈會等時間</p><p><img src="https://pub-f966c20e60684e1daa12b822ef64acdd.r2.dev/2024-08-17_193902.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;盤整、盤整、盤整&quot;&gt;&lt;a href=&quot;#盤整、盤整、盤整&quot; class=&quot;headerlink&quot; title=&quot;盤整、盤整、盤整&quot;&gt;&lt;/a&gt;盤整、盤整、盤整&lt;/h2&gt;&lt;p&gt;從2024&amp;#x2F;8&amp;#x2F;9 反彈至高點62500後，市場進入了&lt;strong&gt;量</summary>
+      
+    
+    
+    
+    <category term="market" scheme="http://168moons.github.io/categories/market/"/>
+    
+    
+    <category term="market" scheme="http://168moons.github.io/tags/market/"/>
+    
+  </entry>
   
   <entry>
     <title>資金控管</title>
